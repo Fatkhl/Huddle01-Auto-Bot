@@ -4,7 +4,8 @@ A Node.js bot for automatically joining Huddle01 test network rooms to collect t
 
 ## Register
 
-- Link : https://testnet.huddle01.com/r/0x4cbb1421df1cf362dc618d887056802d8adb7bc0
+- Link : (https://testnet.huddle01.com/r/0x32f8f6d3a05b24f944267d953aaee81a176d9da0)
+  
 
 ## 🚀 Features
 
